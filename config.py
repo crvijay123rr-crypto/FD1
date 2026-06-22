@@ -1,8 +1,8 @@
 # config.py
-API_ID = 1234567       # Apna API ID dalein
-API_HASH = "your_api_hash_here"
-MASTER_BOT_TOKEN = "your_master_bot_token_here" 
+API_ID =        # Apna API ID dalein
+API_HASH = ""
+MASTER_BOT_TOKEN = "" 
 
 # MongoDB URL (Cluster ya localhost ka link yahan dalein)
-MONGO_URL = "mongodb+srv://your_username:your_password@cluster.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URL = ""
 DB_NAME = "premium_forward_db"
